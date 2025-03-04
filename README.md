@@ -5,9 +5,12 @@ In this project, I evaluated the potential expansion of Eniac, an Apple-compatib
 
 ## Files
 SQL query exploring Magist data
+
 schema of the tables
+
 A 5-minute presentation slides
 
 ## Tools and Methodologies
 SQL: For analyzing Magist’s performance data.
+
 Tableau: Used for creating the presentation slides.
