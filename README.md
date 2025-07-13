@@ -18,9 +18,9 @@ This project analyzes Magist's operational database to evaluate two critical fac
   •	Provide data-driven recommendations for the proposed 3-year partnership
 
 ## Dataset Overview
-Data Source: Magist database snapshot
-Coverage Period: April 2017 - March 2018
-Key Data Points:
+### Data Source: Magist database snapshot
+### Coverage Period: April 2017 - March 2018
+### Key Data Points:
   •	Order processing and delivery timelines
   • Product categories and pricing
   •	ustomer demographics and behavior
@@ -34,17 +34,17 @@ Key Data Points:
   •	Tableau: For creating a 5-minute presentation slides.
 
 ## Key Research Questions
-Partnership Viability
+### Partnership Viability
   •	Does Magist's seller network offer products compatible with Eniac's Apple-focused catalog?
   •	What is the quality distribution of products and sellers on Magist's platform?
   •	Are there sufficient high-end tech vendors to support Eniac's premium positioning?
 
-Operational Performance
+### Operational Performance
   •	What are the average delivery times across different product categories?
   •	How does delivery performance vary by geographic region within Brazil?
   •	What percentage of orders meet standard e-commerce delivery expectations?
 
-Risk Assessment
+### Risk Assessment
   •	What operational risks exist when outsourcing logistics to Magist?
   •	Are there seasonal or volume-based performance variations?
   •	How does customer satisfaction correlate with delivery performance?
