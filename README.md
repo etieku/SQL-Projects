@@ -12,10 +12,10 @@ This project analyzes Magist's operational database to evaluate two critical fac
   2.	Service Quality: Whether Magist's delivery performance meets Eniac's customer satisfaction standards
 
 ## Business Objectives
-  •	Analyze product categories and delivery performance metrics from Magist's database
-  •	Evaluate compatibility between Magist's vendor ecosystem and Eniac's premium tech products
-  •	Assess delivery speed and reliability against Eniac's customer satisfaction requirements
-  •	Provide data-driven recommendations for the proposed 3-year partnership
+  -	Analyze product categories and delivery performance metrics from Magist's database
+  -	Evaluate compatibility between Magist's vendor ecosystem and Eniac's premium tech products
+  -	Assess delivery speed and reliability against Eniac's customer satisfaction requirements
+  -	Provide data-driven recommendations for the proposed 3-year partnership
 
 ## Dataset Overview
 Data Source: Magist database snapshot
